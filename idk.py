@@ -4,4 +4,4 @@ from idol
 
 print('isegye')
 await (1)
-print('idol'h
+print('idol')
